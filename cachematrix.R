@@ -1,7 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## the following code creates a special matrix via a function called makeCacheMatrix that 
+## will work in conjunction with the cacheSolve fuction to return the inverse of a 
+## matrix
 
-## Write a short comment describing this function AYALA
 
 makeCacheMatrix <- function(x = matrix()) {
   M <- NULL
